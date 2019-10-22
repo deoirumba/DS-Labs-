@@ -4,3 +4,5 @@ all colurs
 red
 yellow
 gray
+names 
+and location
